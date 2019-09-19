@@ -1,0 +1,5 @@
+telethon>=1.10.2
+lxml
+aria2p
+coffeehouse==1.0.4
+-r ./requirements-stdborg.txt
